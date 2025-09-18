@@ -3,11 +3,11 @@
 This repository stores all materials from our research project on **“Using Generative AI Tools — Boon or Bane.”**
 
 ## Contents
-- **Literature Review** — journal/conference articles, books, notes  
-- **Quantitative Analysis** — survey data, questions, scripts (Python/CSV/Excel), analysis report  
-- **Qualitative Analysis** — interview transcripts, protocols, consent forms, insights report, visualisations  
-- **Drafts & Reports** — proposals, conference papers, final reports  
-- **Additional Materials** — info sheets, photos, media files  
+- **Literature Review** — Reference/ articles, books, notes  
+- **Quantitative Analysis** — Survey / data, questions, scripts (Python/CSV/Excel), analysis report  
+- **Qualitative Analysis** — Research_Interviews /interview transcripts, protocols, consent forms, insights report, visualisations  
+- **Drafts & Reports** — FinalDocument/proposals, conference papers, final reports  
+- **Additional Materials** — PhotoReference /info sheets, photos, media files  
 
 ## Guidelines
 - Use clear filenames and commit messages  
